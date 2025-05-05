@@ -1,10 +1,10 @@
 # {{ Repository_Name }}
 
-## Goals ⚽
+## Goals
 
-The aim of this repository is to provide details of the data sets and code used in the related research. This repository has been developed by members of the {{ Group_Name }} thanks to the funding of the project {{ Project_Name }}. We suggest you visit the related links to learn more about our research 😉
+The aim of this repository is to provide details of the data sets and code used in the related research. This repository has been developed by members of the {{ Group_Name }} thanks to the funding of the project {{ Project_Name }}. We suggest you visit the related links to learn more about our research.
 
-## Data Description 📂
+## Data Description
 
 The following files are included in this repository:
 * {{ File_1_Name }}: {{ File_1_Description }}
@@ -13,13 +13,13 @@ The following files are included in this repository:
 * {{ File_4_Name }}: {{ File_4_Description }}
 * {{ File_5_Name }}: {{ File_5_Description }}
 
-## References 📚
+## References
 
 [1] {{ Reference_1_Details }}
 
 [2] {{ Reference_2_Details }}
 
-## How to cite the repo and the paper? 📝
+## How to cite the repo and the paper?
 
 If you want to cite the related paper or this repository, please use the following bib entries:
 
@@ -46,25 +46,25 @@ howpublished = {{\url{{ {{ Repository_URL }} }} }}
 }
 ```
 
-## Do you want to contribute? 🙋‍♀️🙋‍♂️
+## Do you want to contribute?
 
-Please, do it 😋 Any feedback is welcome 🤗 so feel free to ask or comment anything you want via a Pull Request in this repo.
+Please, do it. Any feedback is welcome, so feel free to ask or comment anything you want via a Pull Request in this repo.
 If you need extra help, you can contact:
 * {{ Contributor_1_Name }} ({{ Contributor_1_Email }})
 * {{ Contributor_2_Name }} ({{ Contributor_2_Email }})
 * {{ Contributor_3_Name }} ({{ Contributor_3_Email }})
 
-## Contributors 🌬☀
+## Contributors
 
 * [{{ Group_Name }}]({{ Group_Website }}) - {{ Group_Email }}
 
-## Developed by 👩‍💻👨‍💻👨‍💻
+## Developed by
 
 * [{{ Developer_1_Name }}]({{ Developer_1_Profile_Link }}) - {{ Developer_1_Email }}
 * [{{ Developer_2_Name }}]({{ Developer_2_Profile_Link }}) - {{ Developer_2_Email }}
 * [{{ Developer_3_Name }}]({{ Developer_3_Profile_Link }}) - {{ Developer_3_Email }}
 
-## License 📝
+## License
 
 {{ License_Details }}
 
